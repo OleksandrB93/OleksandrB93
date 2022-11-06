@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 <img align='right' alt='coding' width='400' src='https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif'>
 
-- 🔭I'm a student GOIT [react projects](...)
+- 🔭I'm a student GOIT [react projects]([...](https://github.com/OleksandrB93?tab=repositories))
 
 - 🌱 I’m currently learning **React**
 
