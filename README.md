@@ -1,5 +1,7 @@
+![MasterHead](https://masterscoding.com/wp-content/uploads/2020/06/Banner-817x400-05-scaled.jpg)
 <h1 align="center">Hi 👋, I'm Oleksandr</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
+<img align='right' alt='coding' width='400' src='https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif'>
 
 - 🔭I'm a student GOIT [react projects](...)
 
