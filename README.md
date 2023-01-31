@@ -5,7 +5,7 @@
 
 - 🔭I'm a student GOIT [react projects]([...](https://github.com/OleksandrB93?tab=repositories))
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 I', student GOIT **HW**
 
