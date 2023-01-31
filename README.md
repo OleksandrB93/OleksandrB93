@@ -3,11 +3,9 @@
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 <img align='right' alt='coding' width='400' src='https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif'>
 
-- 🔭I'm a student GOIT [react projects]([...](https://github.com/OleksandrB93?tab=repositories))
+- 🔭I'm a student GOIT
 
 - 🌱 I’m currently learning **Node.js**
-
-- 👨‍💻 I', student GOIT **HW**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OleksandrB93](https://github.com/OleksandrB93)
 
