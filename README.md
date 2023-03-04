@@ -5,7 +5,7 @@
 
 - 🔭I'm a student GOIT
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OleksandrB93](https://github.com/OleksandrB93)
 
